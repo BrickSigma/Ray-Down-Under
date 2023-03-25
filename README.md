@@ -2,4 +2,5 @@
 Submission for the raylib 9 year game jam
 
 ## Notes
-This game was made in one week for the raylib 9 year game jame. The code is a mess right now, but I will fix it up in the comming days.
+This game was made in one week for the raylib 9 year game jame.  
+At the moment the game code is undocumented and scattered, thus in need of much refactoring.
